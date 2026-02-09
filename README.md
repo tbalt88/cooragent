@@ -18,8 +18,6 @@ The core goals of Cooragent are: helping users quickly build agents, quickly bui
 <video src="https://github.com/user-attachments/assets/9af611e3-aed6-4a2f-8663-428a7707fe8d" width="70%" alt="introduce cooragent" controls></video>
 </h5>
 
-# Cooragent Agent Studio
-Cooragent Agent Studio is an online agent studio that can quickly generate intelligent agents capable of accomplishing tasks in various scenarios. It supports usage anytime and anywhere, and at the same time, allows you to manage and share the agents you have created. Free to try [Cooragent Agent Studio](https://www.cooragent.com)
 
 # Auto-Create Agents, Unlock Infinite Possibilities
 Cooragent has two task modes: **Agent Factory** and **Agent Workflow**.
