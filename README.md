@@ -220,10 +220,5 @@ Core contributors: Zheng Wang, Shenzhi Wang, Yue Wu, Shiji Song, Gao Huang
 }
 ```
 
-## Star History
-![Star History Chart](https://api.star-history.com/svg?repos=LeapLabTHU/cooragent&type=Date)
-
-
-
 ## Acknowledgments
 Special thanks to all the open-source projects and contributors that made cooragent possible. We stand on the shoulders of giants.
